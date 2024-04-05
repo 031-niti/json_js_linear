@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Prompt&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Prompt";
+
+}
+
+td{
+  padding: 10px;
+  border: 1px solid lightgray;
+}
+
+th{
+  border: 1px solid lightgray;
+}
+
+tr{
+  border: 1px solid lightgray;
+}
+
+label{
+  margin: 10px;
+}
